@@ -15,7 +15,7 @@ This simple project is a starting point for your take-home test. It is built wit
 ### 2. Install npm dependencies
 
 ```
-yarn
+npm install
 ```
 
 ### 3. Create .env file
@@ -41,7 +41,7 @@ npx prisma db seed
 ### 5. Start the app
 
 ```
-yarn dev
+npm run dev
 ```
 
 The app is now running, navigate to [`http://localhost:3000/`](http://localhost:3000/) in your browser to explore its UI.
